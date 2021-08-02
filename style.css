@@ -1,0 +1,363 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+width: 90%;
+
+margin: auto;
+
+margin-top: 30px;
+
+overflow: hidden;
+}
+header .logo{
+
+width: 20%;
+
+float: left;
+}
+header .logo img{
+
+width: 55%;
+
+margin-top: 15px;
+}
+header nav{
+
+width: 60%;
+
+float: right;
+
+overflow: hidden;
+}
+header nav ul{
+
+overflow: hidden;
+
+float: right;
+
+/* margin-bottom: 30px; */
+}
+header nav ul li{
+
+list-style: none;
+
+float: left;
+
+margin-top: 20px;
+
+margin-left: 90px;
+
+color: #909090;
+
+font-weight: 600;
+
+text-align: right;
+}
+.content_section{
+    
+width: 90%;
+    
+margin: auto;
+    
+margin-top: 35px;
+}
+.content_section .image{
+    
+width: 100%;
+    
+margin: auto;
+}
+.content_section .image img{
+    
+width: 100%;
+}
+.content_section .content{
+    
+width: 90%;
+    
+margin: auto;
+    
+margin-top: 80px;
+}
+.content_section .content .p_one{
+    
+color: #acaeb3;
+}
+.content_section .content h1{
+    
+font-size: 34px;
+    
+margin-top: 20px;
+    
+font-family: -webkit-pictograph;
+    
+color: #434640bd;
+}
+.content_section .content .p_two{
+    
+color: #696c73;
+    
+margin-top: 25px;
+}
+.content_section .content .p_three{
+    
+color: #acaeb3;
+    
+margin-top: 40px;
+}
+.features_section{
+
+margin-top: 120px;
+
+overflow: hidden;
+}
+.features_one{
+
+width: 81%;
+
+margin: auto;
+
+overflow: hidden;
+}
+.features_one .div_one{
+    
+width: 47%;
+    
+float: left;
+}
+.features_one .div_one img{
+    
+width: 100%;
+}
+.features_one .div_one p{
+    
+color: #7B7D83;
+    
+margin-top: 18px;
+}
+.features_one .div_one h1{
+    
+color: #747671;
+    
+margin-top: 25px;
+}
+.features_one .div_two{
+    
+width: 47%;
+    
+float: right;
+}
+.features_one .div_two img{
+    
+width: 99%;
+}
+.features_one .div_two p{
+    
+color: #7B7D83;
+    
+margin-top: 17px;
+}
+.features_one .div_two h1{
+    
+color: #747671;
+    
+margin-top: 25px;
+}
+.features_two{
+
+width: 81%;
+
+margin: auto;
+
+overflow: hidden;
+
+margin-top: 120px;
+}
+.features_two .div_one{
+    
+width: 47%;
+    
+float: left;
+}
+.features_two .div_one img{
+    
+width: 100%;
+}
+.features_two .div_one p{
+    
+margin-top: 18px;
+    
+color: #7B7D83;
+}
+.features_two .div_one h1{
+    
+color: #747671;
+    
+margin-top: 25px;
+}
+.features_two .div_two{
+    
+width: 47%;
+    
+float: right;
+}
+.features_two .div_two img{
+    
+width: 100%;
+}
+.features_two .div_two p{
+    
+color: #7B7D83;
+    
+margin-top: 18px;
+}
+.features_two .div_two h1{
+    
+color: #747671;
+    
+margin-top: 25px;
+}
+.features_three{
+
+background: #f0f0f0;
+
+text-align: center;
+
+margin-top: 120px;
+
+padding: 50px;
+}
+.features_three h1{
+    
+color: #747671;
+    
+font-size: 34px;
+    
+margin-top: 20px;
+    
+font-family: system-ui;
+}
+.features_three img{
+    
+width: 33%;
+    
+margin-top: 20px;
+}
+.features_four{
+
+width: 81%;
+
+overflow: hidden;
+
+margin: auto;
+
+margin-top: 120px;
+}
+.features_four .div_one{
+
+width: 47%;
+
+/* margin: auto; */
+
+float: left;
+}
+.features_four .div_one img{
+
+width: 100%;
+}
+.features_four .div_one p{
+
+color: #7B7D83;
+
+margin-top: 18px;
+}
+.features_four .div_one h1{
+
+margin-top: 25px;
+
+color: #747671;
+}
+.features_four .div_two{
+
+width: 47%;
+
+float: right;
+}
+.features_four .div_two img{
+
+width: 99%;
+}
+.features_four .div_two p{
+
+color: #7B7D83;
+
+margin-top: 18px;
+}
+.features_four .div_two h1{
+
+margin-top: 25px;
+
+color: #747671;
+}
+.btn{
+
+margin-top: 140px;
+
+margin-left: 44%;
+}
+.btn button{
+    
+text-align: center;
+    
+padding: 13px 30px;
+    
+/* margin: auto; */
+    
+background: white;
+    
+font-size: 22px;
+    
+font-family: system-ui;
+    
+/* border: #747671; */
+    
+color: #747671;
+}
+footer{
+
+overflow: hidden;
+
+background: #f0f0f0;
+
+height: 130px;
+
+margin-top: 140px;
+}
+footer ul{
+
+overflow: hidden;
+
+list-style: none;
+
+width: 50%;
+
+float: left;
+
+margin-left: 8%;
+
+margin-top: 54px;
+}
+footer ul li{
+    
+float: left;
+    
+color: #5d5e5a;
+    
+margin-left: 14px;
+    
+font-size: 18px;
+}
+footer img{float: right;width: 15%;margin-top: 34px;margin-right: 40px;}
